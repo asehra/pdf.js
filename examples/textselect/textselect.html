@@ -1,0 +1,25 @@
+<!--
+  This file contains work derived from http://jsbin.com/pdfjs-prevnext-v2/edit#html,live
+  as on 30/9/2012
+-->
+
+<html>
+<body>
+<div>
+  <button id="prev" onclick="goPrevious()">Previous</button>
+  <button id="next" onclick="goNext()">Next</button>
+  &nbsp; &nbsp;
+  <span>Page: <span id="page_num"></span> / <span id="page_count"></span></span>
+  <link rel="stylesheet" href="textselect.css">
+</div>
+
+<div id="the-container">
+  <canvas id="the-canvas" style="border:1px solid black"></canvas>
+</div>
+
+<!-- Use latest PDF.js build from Github -->
+<script type="text/javascript" src="https://raw.github.com/asehra/pdf.js/gh-pages/build/pdf.js"></script>
+
+<script type="text/javascript" src="textselect.js"></script>
+</body>
+</html>
