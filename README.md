@@ -1,10 +1,13 @@
 # Introduction
 
-This repo contains a brief experiment I conducted to play a little with text selection.
-You can find the source for the example + [here](https://github.com/asehra/pdf.js/blob/master/examples/textselect/)
-Or, you could view live at http://jsbin.com/idezud/1/
+This repo contains a brief experiment I conducted to play with text selection.
+You can find the source for the example [here](https://github.com/asehra/pdf.js/blob/master/examples/textselect/).
+
+
+Or, you could view live at http://jsbin.com/idezud/2/edit?live
 
 ### Original Readme is as follows:
+
 
 # PDF.JS
 
